@@ -8,7 +8,7 @@
 <html>
 <body>
   <h1>Avtonet</h1>
-  <p>Najboljša ponudba novih in rabljenih vozil v Sloveniji.</p>
+  <p>Najboljša ponudba novih ter rabljenih vozil v Sloveniji.</p>
 </body>
 </html>
 
