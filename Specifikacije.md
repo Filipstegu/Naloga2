@@ -8,7 +8,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Avtonet</title>
   <meta name="description" content="Spletna stran za prodajo in nakup vozil.">
 </head>
 <body>
