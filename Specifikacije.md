@@ -1,5 +1,5 @@
 # Avtonet  
-![alt text](https://www.avto.net/_graphics/avtonet/logotip%20cmyk.jpg)
+![logo](https://www.avto.net/_graphics/avtonet/logotip%20cmyk.jpg)
 | Ime in priimek | Vloga |
 |----------------|--------|
 | Jernej Višnar | Vodja projekta |
