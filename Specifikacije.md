@@ -5,6 +5,7 @@
 | Jernej Višnar | Vodja projekta |
 | Filip Stegu | Manager |
 | Irenej Bizjak | Prodajalec |
+| Irenej Bizjak | Prodajalec |
 <html>
 <body>
   <h1>Avtonet</h1>
