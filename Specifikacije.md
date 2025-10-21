@@ -7,9 +7,6 @@
 | Irenej Bizjak | Prodajalec |
 <!DOCTYPE html>
 <html>
-<head>
-  <meta name="description" content="Spletna stran za prodajo in nakup vozil.">
-</head>
 <body>
   <h1>Avtonet</h1>
   <p>Najboljša ponudba novih in rabljenih vozil v Sloveniji.</p>
